@@ -8,9 +8,10 @@
 </defs>
 <path d="M 50,14 L 150,14 Q 159,14 159,23 L 159,93 Q 159,130 100,157 Q 41,130 41,93 L 41,23 Q 41,14 50,14 Z" fill="#0F172A"/>
 <path d="M 55,20 L 145,20 Q 153,20 153,28 L 153,92 Q 153,125 100,150 Q 47,125 47,92 L 47,28 Q 47,20 55,20 Z" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-<rect x="41" y="118" width="118" height="39" fill="#EF4444" clip-path="url(#sc)"/>
-<text x="100" y="142" text-anchor="middle" fill="white" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="700" letter-spacing="3.5">VIRGINIA</text>
-<text x="100" y="105" text-anchor="middle" fill="white" font-family="'Segoe UI',system-ui,sans-serif" font-size="80" font-weight="900" clip-path="url(#sc)">R</text>
+<rect x="41" y="108" width="118" height="49" fill="#EF4444" clip-path="url(#sc)"/>
+<text x="100" y="142" text-anchor="middle" fill="white" font-family="'Segoe UI',system-ui,sans-serif" font-size="9" font-weight="700" letter-spacing="2">PRO WASH</text>
+<text x="100" y="30" text-anchor="middle" fill="#EF4444" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="900" letter-spacing="2" clip-path="url(#sc)">CENTRAL VA</text>
+<text x="100" y="97" text-anchor="middle" fill="white" font-family="'Segoe UI',system-ui,sans-serif" font-size="80" font-weight="900" clip-path="url(#sc)">R</text>
 <rect x="186" y="56" width="3" height="57" fill="#EF4444"/>
 <text x="198" y="85" fill="#0F172A" font-family="'Segoe UI',system-ui,sans-serif" font-size="40" font-weight="900" letter-spacing="-0.5">REYNOLDS</text>
 <text x="200" y="108" fill="#EF4444" font-family="'Segoe UI',system-ui,sans-serif" font-size="17" font-weight="700" letter-spacing="8">PRO WASH</text>
